@@ -143,7 +143,7 @@ To use multiple PDF files:
 ## Contributor Details
 
 - [Md. Anwar Hossain] (https://www.linkedin.com/in/ranak8811/)
-- [ranakrphone@gmail.com]
+- [My Mail] (ranakrphone@gmail.com)
 - [GitHub Profile Link](https://github.com/ranak8811)
 - [LinkedIn Profile Link](https://www.linkedin.com/in/ranak8811/)
 
@@ -163,7 +163,7 @@ If you want to contribute to this project or run it locally, you can fork and cl
     - Run the following command:
 
       ```bash
-      git clone [https://github.com/ranak8811/Chat-with-Multiple-PDFs.git](https://www.google.com/search?q=https://github.com/ranak8811/Chat-with-Multiple-PDFs.git)
+      git clone https://github.com/ranak8811/Chat-with-Multiple-PDFs.git
       ```
 
     - This will download the project files to your local machine.
