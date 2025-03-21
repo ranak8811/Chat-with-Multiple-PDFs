@@ -2,6 +2,10 @@
 
 This is a Streamlit application that allows you to chat with the content of multiple PDF documents. You can upload several PDF files, and the application will process them, allowing you to ask questions and receive answers based on the information within those documents.
 
+## Live Hosting
+
+Access the live application here: [Chat with Multiple PDFs Live URL](https://chat-with-multiple-pdfs-rana.streamlit.app/)
+
 ## How I Did It...
 
 This application was built using the following technologies and libraries:
@@ -138,10 +142,10 @@ To use multiple PDF files:
 
 ## Contributor Details
 
-[Md. Anwar Hossain]
-[ranakrphone@gmail.com]
-[GitHub Profile Link](https://github.com/ranak8811)
-[LinkedIn Profile Link](https://www.linkedin.com/in/ranak8811/)
+- [Md. Anwar Hossain] (https://www.linkedin.com/in/ranak8811/)
+- [ranakrphone@gmail.com]
+- [GitHub Profile Link](https://github.com/ranak8811)
+- [LinkedIn Profile Link](https://www.linkedin.com/in/ranak8811/)
 
 ## Forking and Cloning the Repository
 
@@ -156,20 +160,10 @@ If you want to contribute to this project or run it locally, you can fork and cl
 
     - Open your terminal or command prompt.
     - Navigate to the directory where you want to clone the repository.
-    - Run the following command, replacing `YOUR_GITHUB_USERNAME` with your actual GitHub username:
+    - Run the following command:
 
       ```bash
-      git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_FORKED_REPOSITORY_NAME.git](https://www.google.com/search?q=https://github.com/YOUR_GITHUB_USERNAME/YOUR_FORKED_REPOSITORY_NAME.git)
+      git clone [https://github.com/ranak8811/Chat-with-Multiple-PDFs.git](https://www.google.com/search?q=https://github.com/ranak8811/Chat-with-Multiple-PDFs.git)
       ```
 
     - This will download the project files to your local machine.
-
-## Live Hosting
-
-[Link to the live hosted version of the application (Will be added later)]
-
-(You can replace the bracketed text above with the actual link to your live hosted application once it's deployed.)
-
-```
-
-```
